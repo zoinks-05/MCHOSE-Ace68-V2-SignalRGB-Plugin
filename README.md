@@ -24,7 +24,7 @@ Custom SignalRGB support for the **MCHOSE Ace 68 V2** mechanical keyboard.
 
 Based on the original first-generation Ace 68 SignalRGB project by [Lukkrn](https://github.com/Luk-Krn).
 
-V2 hardware testing, individual LED mapping and implementation by [zoinks-5](https://github.com/zoinks-5).
+V2 hardware testing, individual LED mapping and implementation by [zoinks-05](https://github.com/zoinks-05).
 
 Original project: https://github.com/Luk-Krn/mchose_ace68
 
