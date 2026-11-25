@@ -12,6 +12,7 @@ Custom SignalRGB support for the **MCHOSE Ace 68 V2** mechanical keyboard.
 ## Compatibility
 
 | | |
+|---|---|
 | Device | MCHOSE Ace 68 V2 |
 | Vendor ID | `0x3837` |
 | Product ID | `0x3024` |
